@@ -5,6 +5,7 @@ import ReactTooltip from "react-tooltip";
 import { AppWrapper, MotionWrap } from "../../wrapper";
 import { images } from "../../constants";
 import "./Skills.scss";
+import { slotFlagsText } from "@vue/shared";
 
 const skills = [
   {
